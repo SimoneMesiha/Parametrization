@@ -6,7 +6,7 @@ Parametrization that takes the radius of a sphere and return its volume
 ## Install it from PyPI
 
 ```bash
-pip install project_name
+pip install -i https://test.pypi.org/simple/ parametrization==0.0.3
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ calculate_volume(arg)
 ```
 #### CLI (locally within the directory)
 ```bash
-$ python parametrization/cli.py [arg]
+$ python -m parametrization.cli [arg]
 ```
 
 #### Docker

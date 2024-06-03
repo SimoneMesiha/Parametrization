@@ -1,5 +1,5 @@
 import argparse
-from core import calculate_volume
+from parametrization.core import calculate_volume
 import argparse
 
 
