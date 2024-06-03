@@ -10,8 +10,6 @@ pip install -i https://test.pypi.org/simple/ parametrization==0.0.3
 ```
 
 ## Usage
-
-### Local environment
 ```py
 from parametrization.core import calculate_volume
 calculate_volume(arg)
