@@ -1,5 +1,5 @@
 import unittest
-from parametrization.parametrization import calculate_volume
+from parametrization.core import calculate_volume
 
 
 class MyTestCase(unittest.TestCase):
